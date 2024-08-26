@@ -47,6 +47,6 @@ Chen, Daqing, Sain, Sai Liang, y Guo, Kun. "Data mining for the online retail in
 
 ## Cómo Ejecutar el Proyecto
 
-1.  Solo es neccesario ejecutar el archivo en Jupyter notebook, en caso de no tener las dependencias necesarias, quitar el asterisco de la primera celda, que contiene el código para instalarlas
+1.  Solo es neccesario descomprimir el archivo .zip, luego ejecutar el archivo .ipynb en Jupyter notebook, en caso de no tener las dependencias necesarias instaladas, quitar el asterisco de la primera celda, que contiene el código para instalarlas
     
     
